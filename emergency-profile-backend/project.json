@@ -1,0 +1,6 @@
+{
+  "name": "emergency-profile-backend",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "emergency-profile-backend/src",
+  "tags": []
+}
